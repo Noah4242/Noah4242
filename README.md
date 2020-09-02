@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align = "center">My name is Noah williams</h1>
+</n>
+<p align = "center">I am a mobile app development student at DBHS. i have taken multiple coding classes utilizing HTML and Javascript. I am interested in coding and would like to have a potential future in the field.</P>
 
 <!--
 **Noah4242/Noah4242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
